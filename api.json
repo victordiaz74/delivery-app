@@ -1,0 +1,85 @@
+{
+  "restaurantes": [
+    {
+      "id": 1,
+      "nombre": "Restaurante El Mesón",
+      "direccion": "Calle Mayor, 123",
+      "ciudad": "Villarejo de Salvanés",
+      "provincia": "Madrid",
+      "codigo_postal": "28230",
+      "telefono": "911234567",
+      "horario": "13:00-16:00, 20:00-23:00",
+      "menus": [
+        {
+          "id": 1,
+          "nombre": "Menú del día",
+          "precio": 12.50,
+          "platos": [
+            {
+              "nombre": "Ensalada mixta",
+              "precio": 5.00
+            },
+            {
+              "nombre": "Pescado a la plancha",
+              "precio": 7.50
+            },
+            {
+              "nombre": "Postre del día",
+              "precio": 2.50
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "nombre": "Menú especial",
+          "precio": 20.00,
+          "platos": [
+            {
+              "nombre": "Paella mixta",
+              "precio": 15.00
+            },
+            {
+              "nombre": "Carne a la brasa",
+              "precio": 10.00
+            },
+            {
+              "nombre": "Postre casero",
+              "precio": 5.00
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Restaurante La Taberna",
+      "direccion": "Plaza del Ayuntamiento, 45",
+      "ciudad": "Villarejo de Salvanés",
+      "provincia": "Madrid",
+      "codigo_postal": "28230",
+      "telefono": "912345678",
+      "horario": "12:00-16:00, 20:00-24:00",
+      "menus": [
+        {
+          "id": 1,
+          "nombre": "Menú del día",
+          "precio": 10.00,
+          "platos": [
+            {
+              "nombre": "Sopa de cocido",
+              "precio": 2.50
+            },
+            {
+              "nombre": "Cocido madrileño",
+              "precio": 7.50
+            },
+            {
+              "nombre": "Postre casero",
+              "precio": 2.50
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
