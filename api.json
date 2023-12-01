@@ -142,6 +142,68 @@
           ]
         }
       ]
+    },
+    {
+      "id": 5,
+      "nombre": "Resturante La Latina",
+      "direccion": "Calle del Sol, 56",
+      "ciudad": "Villarejo de Salvanes",
+      "provincia": "Madrid",
+      "codigo_postal": "28230",
+      "telefono": "934567890",
+      "horario": "12:00-18:00, 19:00-23:00",
+      "menus": [
+        {
+          "id": 1,
+          "nombre": "Menú parrillero",
+          "precio": 25.00,
+          "platos": [
+            {
+              "nombre": "Entrada de queso fundido",
+              "precio": 8.00
+            },
+            {
+              "nombre": "Asado argentino",
+              "precio": 15.00
+            },
+            {
+              "nombre": "Helado de vainilla",
+              "precio": 2.00
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Resturante La Encina",
+      "direccion": "Calle del Sol, 56",
+      "ciudad": "Villarejo de Salvanes",
+      "provincia": "Madrid",
+      "codigo_postal": "28230",
+      "telefono": "934567890",
+      "horario": "12:00-18:00, 19:00-23:00",
+      "menus": [
+        {
+          "id": 1,
+          "nombre": "Menú parrillero",
+          "precio": 25.00,
+          "platos": [
+            {
+              "nombre": "Entrada de queso fundido",
+              "precio": 8.00
+            },
+            {
+              "nombre": "Asado argentino",
+              "precio": 15.00
+            },
+            {
+              "nombre": "Helado de vainilla",
+              "precio": 2.00
+            }
+          ]
+        }
+      ]
     }
   ]
 }
