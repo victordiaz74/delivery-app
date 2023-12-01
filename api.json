@@ -2,9 +2,9 @@
   "restaurantes": [
     {
       "id": 1,
-      "nombre": "Restaurante El Mesón",
+      "nombre": "Restaurante El Meson",
       "direccion": "Calle Mayor, 123",
-      "ciudad": "Villarejo de Salvanés",
+      "ciudad": "Villarejo de Salvanes",
       "provincia": "Madrid",
       "codigo_postal": "28230",
       "telefono": "911234567",
@@ -54,7 +54,7 @@
       "id": 2,
       "nombre": "Restaurante La Taberna",
       "direccion": "Plaza del Ayuntamiento, 45",
-      "ciudad": "Villarejo de Salvanés",
+      "ciudad": "Villarejo de Salvanes",
       "provincia": "Madrid",
       "codigo_postal": "28230",
       "telefono": "912345678",
@@ -76,6 +76,68 @@
             {
               "nombre": "Postre casero",
               "precio": 2.50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Restaurante La Cuchara",
+      "direccion": "Avenida de la Paz, 78",
+      "ciudad": "Villarejo de Salvanes",
+      "provincia": "Madrid",
+      "codigo_postal": "28230",
+      "telefono": "923456789",
+      "horario": "11:00-15:00, 18:00-22:00",
+      "menus": [
+        {
+          "id": 1,
+          "nombre": "Menú ejecutivo",
+          "precio": 15.00,
+          "platos": [
+            {
+              "nombre": "Crema de calabaza",
+              "precio": 5.00
+            },
+            {
+              "nombre": "Lomo a la pimienta",
+              "precio": 8.00
+            },
+            {
+              "nombre": "Tiramisú",
+              "precio": 2.00
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Restaurante La Parrilla",
+      "direccion": "Calle del Sol, 56",
+      "ciudad": "Villarejo de Salvanes",
+      "provincia": "Madrid",
+      "codigo_postal": "28230",
+      "telefono": "934567890",
+      "horario": "12:00-18:00, 19:00-23:00",
+      "menus": [
+        {
+          "id": 1,
+          "nombre": "Menú parrillero",
+          "precio": 25.00,
+          "platos": [
+            {
+              "nombre": "Entrada de queso fundido",
+              "precio": 8.00
+            },
+            {
+              "nombre": "Asado argentino",
+              "precio": 15.00
+            },
+            {
+              "nombre": "Helado de vainilla",
+              "precio": 2.00
             }
           ]
         }
