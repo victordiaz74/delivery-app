@@ -9,7 +9,7 @@
       "codigo_postal": "28230",
       "telefono": "911234567",
       "horario": "13:00-16:00, 20:00-23:00",
-      "logo_imagen": "assets/img/bar_victoria.jpg"
+      "logo_imagen": "assets/img/bar_victoria.jpg",
       "menus": [
         {
           "id": 1,
@@ -60,7 +60,7 @@
       "codigo_postal": "28230",
       "telefono": "912345678",
       "horario": "12:00-16:00, 20:00-24:00",
-      "logo_imagen": "assets/img/logo_capricho.jpg"
+      "logo_imagen": "assets/img/logo_capricho.jpg",
       "menus": [
         {
           "id": 1,
@@ -92,7 +92,7 @@
       "codigo_postal": "28230",
       "telefono": "923456789",
       "horario": "11:00-15:00, 18:00-22:00",
-      "logo_imagen": "assets/img/logo_carabina.png"
+      "logo_imagen": "assets/img/logo_carabina.png",
       "menus": [
         {
           "id": 1,
@@ -124,7 +124,7 @@
       "codigo_postal": "28230",
       "telefono": "934567890",
       "horario": "12:00-18:00, 19:00-23:00",
-      "logo_imagen": "assets/img/logo_titos.png"
+      "logo_imagen": "assets/img/logo_titos.png",
       "menus": [
         {
           "id": 1,
@@ -156,7 +156,7 @@
       "codigo_postal": "28230",
       "telefono": "934567890",
       "horario": "12:00-18:00, 19:00-23:00",
-      "logo_imagen": "assets/img/logo_ventura.png"
+      "logo_imagen": "assets/img/logo_ventura.png",
       "menus": [
         {
           "id": 1,
@@ -188,7 +188,7 @@
       "codigo_postal": "28230",
       "telefono": "934567890",
       "horario": "12:00-18:00, 19:00-23:00",
-      "logo_imagen": "assets/img/logo_encina.png"
+      "logo_imagen": "assets/img/logo_encina.png",
       "menus": [
         {
           "id": 1,
