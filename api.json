@@ -10,6 +10,7 @@
       "telefono": "911234567",
       "horario": "13:00-16:00, 20:00-23:00",
       "logo_imagen": "assets/img/bar_victoria.jpg",
+      "img_default": "assets/img/hamburguesa_victoria.png",
       "menus": [
         {
           "id": 1,
@@ -61,6 +62,7 @@
       "telefono": "912345678",
       "horario": "12:00-16:00, 20:00-24:00",
       "logo_imagen": "assets/img/logo_capricho.jpg",
+      "img_default": "assets/img/img_default_capricho.png",
       "menus": [
         {
           "id": 1,
@@ -93,6 +95,7 @@
       "telefono": "923456789",
       "horario": "11:00-15:00, 18:00-22:00",
       "logo_imagen": "assets/img/logo_carabina.png",
+      "img_default": "assets/img/img_default_carabina.png",
       "menus": [
         {
           "id": 1,
@@ -118,13 +121,14 @@
     {
       "id": 4,
       "nombre": "Pizzeria Titos",
-      "direccion": "Calle del Sol, 56",
+      "direccion": "Calle De Tres Cruces, 2",
       "ciudad": "Villarejo de Salvanes",
       "provincia": "Madrid",
-      "codigo_postal": "28230",
-      "telefono": "934567890",
+      "codigo_postal": "28590",
+      "telefono": "649492440",
       "horario": "12:00-18:00, 19:00-23:00",
       "logo_imagen": "assets/img/logo_titos.png",
+      "img_default": "assets/img/img_default_titos.png",
       "menus": [
         {
           "id": 1,
@@ -157,6 +161,7 @@
       "telefono": "934567890",
       "horario": "12:00-18:00, 19:00-23:00",
       "logo_imagen": "assets/img/logo_ventura.png",
+      "img_default": "assets/img/img_default_ventura.jpg",
       "menus": [
         {
           "id": 1,
@@ -189,6 +194,7 @@
       "telefono": "934567890",
       "horario": "12:00-18:00, 19:00-23:00",
       "logo_imagen": "assets/img/logo_encina.png",
+      "img_default": "assets/img/img_default_titos.png",
       "menus": [
         {
           "id": 1,
