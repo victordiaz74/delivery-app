@@ -11,6 +11,7 @@
       "horario": "13:00-16:00, 20:00-23:00",
       "logo_imagen": "assets/img/bar_victoria.jpg",
       "img_default": "assets/img/hamburguesa_victoria.jpeg",
+      "tiempo_estimado": "45min",
       "menus": [
         {
           "id": 1,
@@ -63,6 +64,7 @@
       "horario": "12:00-16:00, 20:00-24:00",
       "logo_imagen": "assets/img/logo_capricho.jpg",
       "img_default": "assets/img/img_default_capricho.png",
+      "tiempo_estimado": "45min",
       "menus": [
         {
           "id": 1,
@@ -96,6 +98,7 @@
       "horario": "11:00-15:00, 18:00-22:00",
       "logo_imagen": "assets/img/logo_carabina.png",
       "img_default": "assets/img/img_default_carabina.png",
+      "tiempo_estimado": "30min",
       "menus": [
         {
           "id": 1,
@@ -129,6 +132,7 @@
       "horario": "12:00-18:00, 19:00-23:00",
       "logo_imagen": "assets/img/logo_titos.png",
       "img_default": "assets/img/img_default_titos.png",
+      "tiempo_estimado": "30min",
       "menus": [
         {
           "id": 1,
@@ -162,6 +166,7 @@
       "horario": "12:00-18:00, 19:00-23:00",
       "logo_imagen": "assets/img/logo_ventura.png",
       "img_default": "assets/img/img_default_ventura.jpg",
+      "tiempo_estimado": "40min",
       "menus": [
         {
           "id": 1,
@@ -195,6 +200,7 @@
       "horario": "12:00-18:00, 19:00-23:00",
       "logo_imagen": "assets/img/logo_encina.png",
       "img_default": "assets/img/img_default_titos.png",
+      "tiempo_estimado": "25min",
       "menus": [
         {
           "id": 1,
