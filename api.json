@@ -26,7 +26,7 @@
           "precio": 12.50,
           "cantidad": 1,
           "imagen": "assets/img/hamburguesa_victoria.jpeg"
-        },
+        }
       ]
     },
     {
@@ -76,7 +76,7 @@
           "precio": 6.50,
           "cantidad": 1,
           "imagen": "assets/img/hamburguesa_victoria.jpeg"
-        },
+        }
       ]
     },
     {
@@ -126,7 +126,7 @@
           "precio": 6.50,
           "cantidad": 1,
           "imagen": "assets/img/hamburguesa_victoria.jpeg"
-        },
+        }
       ]
     },
     {
@@ -176,7 +176,7 @@
           "precio": 6.50,
           "cantidad": 1,
           "imagen": "assets/img/hamburguesa_victoria.jpeg"
-        },
+        }
       ]
     },
     {
@@ -226,7 +226,7 @@
           "precio": 6.50,
           "cantidad": 1,
           "imagen": "assets/img/hamburguesa_victoria.jpeg"
-        },
+        }
       ]
     },
     {
@@ -276,7 +276,7 @@
           "precio": 6.50,
           "cantidad": 1,
           "imagen": "assets/img/hamburguesa_victoria.jpeg"
-        },
+        }
       ]
     }
   ]
