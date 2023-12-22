@@ -12,45 +12,21 @@
       "logo_imagen": "assets/img/bar_victoria.jpg",
       "img_default": "assets/img/hamburguesa_victoria.jpeg",
       "tiempo_estimado": "45min",
-      "menus": [
+      "productos": [
         {
           "id": 1,
-          "nombre": "Menú del día",
+          "nombre": "Hamburguesa especial",
           "precio": 12.50,
-          "platos": [
-            {
-              "nombre": "Ensalada mixta",
-              "precio": 5.00
-            },
-            {
-              "nombre": "Pescado a la plancha",
-              "precio": 7.50
-            },
-            {
-              "nombre": "Postre del día",
-              "precio": 2.50
-            }
-          ]
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
         },
         {
           "id": 2,
-          "nombre": "Menú especial",
-          "precio": 20.00,
-          "platos": [
-            {
-              "nombre": "Paella mixta",
-              "precio": 15.00
-            },
-            {
-              "nombre": "Carne a la brasa",
-              "precio": 10.00
-            },
-            {
-              "nombre": "Postre casero",
-              "precio": 5.00
-            }
-          ]
-        }
+          "nombre": "Menú del día",
+          "precio": 12.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
       ]
     },
     {
@@ -65,26 +41,42 @@
       "logo_imagen": "assets/img/logo_capricho.jpg",
       "img_default": "assets/img/default_capricho.png",
       "tiempo_estimado": "45min",
-      "menus": [
+      "productos": [
         {
           "id": 1,
+          "nombre": "Hamburguesa especial",
+          "precio": 12.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 2,
           "nombre": "Menú del día",
-          "precio": 10.00,
-          "platos": [
-            {
-              "nombre": "Sopa de cocido",
-              "precio": 2.50
-            },
-            {
-              "nombre": "Cocido madrileño",
-              "precio": 7.50
-            },
-            {
-              "nombre": "Postre casero",
-              "precio": 2.50
-            }
-          ]
-        }
+          "precio": 12.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 3,
+          "nombre": "BURRITO",
+          "precio": 12.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 4,
+          "nombre": "Menú infantil",
+          "precio": 9.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 5,
+          "nombre": "Menú desayuno",
+          "precio": 6.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
       ]
     },
     {
@@ -99,26 +91,42 @@
       "logo_imagen": "assets/img/logo_carabina.png",
       "img_default": "assets/img/img_default_carabina.png",
       "tiempo_estimado": "30min",
-      "menus": [
+      "productos": [
         {
           "id": 1,
-          "nombre": "Menú ejecutivo",
-          "precio": 15.00,
-          "platos": [
-            {
-              "nombre": "Crema de calabaza",
-              "precio": 5.00
-            },
-            {
-              "nombre": "Lomo a la pimienta",
-              "precio": 8.00
-            },
-            {
-              "nombre": "Tiramisú",
-              "precio": 2.00
-            }
-          ]
-        }
+          "nombre": "Hamburguesa especial",
+          "precio": 12.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 2,
+          "nombre": "Menú del día",
+          "precio": 12.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 3,
+          "nombre": "BURRITO",
+          "precio": 12.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 4,
+          "nombre": "Menú infantil",
+          "precio": 9.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 5,
+          "nombre": "Menú desayuno",
+          "precio": 6.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
       ]
     },
     {
@@ -133,26 +141,42 @@
       "logo_imagen": "assets/img/logo_titos.png",
       "img_default": "assets/img/img_default_titos.png",
       "tiempo_estimado": "30min",
-      "menus": [
+      "productos": [
         {
           "id": 1,
-          "nombre": "Menú parrillero",
-          "precio": 25.00,
-          "platos": [
-            {
-              "nombre": "Entrada de queso fundido",
-              "precio": 8.00
-            },
-            {
-              "nombre": "Asado argentino",
-              "precio": 15.00
-            },
-            {
-              "nombre": "Helado de vainilla",
-              "precio": 2.00
-            }
-          ]
-        }
+          "nombre": "Hamburguesa especial",
+          "precio": 12.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 2,
+          "nombre": "Menú del día",
+          "precio": 12.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 3,
+          "nombre": "BURRITO",
+          "precio": 12.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 4,
+          "nombre": "Menú infantil",
+          "precio": 9.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 5,
+          "nombre": "Menú desayuno",
+          "precio": 6.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
       ]
     },
     {
@@ -167,26 +191,42 @@
       "logo_imagen": "assets/img/logo_ventura.png",
       "img_default": "assets/img/img_default_ventura.jpg",
       "tiempo_estimado": "40min",
-      "menus": [
+      "productos": [
         {
           "id": 1,
-          "nombre": "Menú parrillero",
-          "precio": 25.00,
-          "platos": [
-            {
-              "nombre": "Entrada de queso fundido",
-              "precio": 8.00
-            },
-            {
-              "nombre": "Asado argentino",
-              "precio": 15.00
-            },
-            {
-              "nombre": "Helado de vainilla",
-              "precio": 2.00
-            }
-          ]
-        }
+          "nombre": "Hamburguesa especial",
+          "precio": 12.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 2,
+          "nombre": "Menú del día",
+          "precio": 12.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 3,
+          "nombre": "BURRITO",
+          "precio": 12.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 4,
+          "nombre": "Menú infantil",
+          "precio": 9.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 5,
+          "nombre": "Menú desayuno",
+          "precio": 6.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
       ]
     },
     {
@@ -201,26 +241,42 @@
       "logo_imagen": "assets/img/logo_encina.png",
       "img_default": "assets/img/img_default_titos.png",
       "tiempo_estimado": "25min",
-      "menus": [
+      "productos": [
         {
           "id": 1,
-          "nombre": "Menú parrillero",
-          "precio": 25.00,
-          "platos": [
-            {
-              "nombre": "Entrada de queso fundido",
-              "precio": 8.00
-            },
-            {
-              "nombre": "Asado argentino",
-              "precio": 15.00
-            },
-            {
-              "nombre": "Helado de vainilla",
-              "precio": 2.00
-            }
-          ]
-        }
+          "nombre": "Hamburguesa especial",
+          "precio": 12.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 2,
+          "nombre": "Menú del día",
+          "precio": 12.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 3,
+          "nombre": "BURRITO",
+          "precio": 12.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 4,
+          "nombre": "Menú infantil",
+          "precio": 9.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 5,
+          "nombre": "Menú desayuno",
+          "precio": 6.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
       ]
     }
   ]
