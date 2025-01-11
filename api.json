@@ -279,5 +279,57 @@
         }
       ]
     }
+  ],
+  "pedidos": [
+    {
+      "id": 1,
+      "idUsuario": 1,
+      "idRestaurante": 1,
+      "precioTotal": 37.50,
+      "fecha": "2025-01-09T13:45:00",
+      "tipoEnvio": "A_DOMICILIO",
+      "estadoEnvio": "EN_PREPARACION",
+      "productos": [
+        {
+          "id": 1,
+          "nombre": "Hamburguesa especial",
+          "precio": 12.50,
+          "cantidad": 2,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 2,
+          "nombre": "Menú del día",
+          "precio": 12.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "idUsuario": 1,
+      "idRestaurante": 2,
+      "precioTotal": 50.50,
+      "fecha": "2025-01-10T13:45:00",
+      "tipoEnvio": "A_DOMICILIO",
+      "estadoEnvio": "EN_PREPARACION",
+      "productos": [
+        {
+          "id": 1,
+          "nombre": "Hamburguesa especial",
+          "precio": 12.50,
+          "cantidad": 2,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        },
+        {
+          "id": 2,
+          "nombre": "Menú del día",
+          "precio": 12.50,
+          "cantidad": 1,
+          "imagen": "assets/img/hamburguesa_victoria.jpeg"
+        }
+      ]
+    }
   ]
 }
