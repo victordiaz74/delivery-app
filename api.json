@@ -338,5 +338,14 @@
         }
       ]
     }
+  ],
+  "usuarios": [
+    {
+          "id": 1,
+          "nombre": "Pepito",
+          "apellidos": "Perez",
+          "direccion": "Calle Pepito Perez, 12",
+          "email": "pepito1@gmail.com"
+        }
   ]
 }
