@@ -288,7 +288,7 @@
       "precioTotal": 37.50,
       "fecha": "2025-01-09T13:45:00",
       "tipoEnvio": "A_DOMICILIO",
-      "estadoEnvio": "EN_PREPARACION",
+      "estadoEnvio": "ENTREGADO",
       "productos": [
         {
           "id": 1,
